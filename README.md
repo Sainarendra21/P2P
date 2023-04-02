@@ -6,19 +6,19 @@ A cab companies like Uber,Ola has nowadays become synonymous with the public tax
 
 ## Advantages of Using BlockChain in Cab Services Platform
 
-- # Cost Reduction
+- Cost Reduction:
 Blockchain would enable riders to directly connect with drivers through the decentralized platform, reducing the additional costs incurred due to the involvement of too many intermediaries.
 
-- Transparency in the pricing
+- Transparency in the pricing:
 Due to the ability of the blockchain to offer transparency, riders would be able to know how cab company functions.The pricing will be fixed on the basis of specific criterion defined in the smart contracts, bringing trust and transparency to the system.
 
-- Economic Opportunity
+- Economic Opportunity:
 With the approach of decentralized car sharing platform, anyone can earn income using their personal vehicle. The removal of services fees due to the elimination of intermediaries can increase the business opportunities for everyone with a smartphone and a safe modern vehicle.
 
-- Safety and security standards
+- Safety and security standards:
 The rules defined in the smart contracts would ensure the non-involvement of drivers in any sort of criminal activities by generating an accurate rating for them. It will help riders decide if they want to take a ride with a specific service provider or not.
 
-- Environmentally Cleaner
+- Environmentally Cleaner:
 Ridesharing could be one of the great use-cases of the decentralized cab service platform, leading to the pollution-free environment.Since people will be able to share the ride seamlessly, fewer cars might be required, decreasing the metal and plastic amount that has various harmful effects. It will help the world move towards a cleaner approach with every car removed from the road due to decentralized ridesharing platform.
 
 ## Technologies Used
