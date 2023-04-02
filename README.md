@@ -1,5 +1,3 @@
-Our Project for Solving for India Hackathon
-
 # P2P
 
 ## Problem Statement
@@ -8,7 +6,7 @@ A cab companies like Uber,Ola has nowadays become synonymous with the public tax
 
 ## Advantages of Using BlockChain in Cab Services Platform
 
-- Cost Reduction
+- # Cost Reduction
 Blockchain would enable riders to directly connect with drivers through the decentralized platform, reducing the additional costs incurred due to the involvement of too many intermediaries.
 
 - Transparency in the pricing
